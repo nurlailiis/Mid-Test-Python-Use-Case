@@ -1,5 +1,7 @@
 # Mid Test Python Use Case IYKRA
+---
 ## 1. Introduction
+---
 In this section there is some code for Middle Test Python Use Case Astra Data Scientist Bootcamp Batch 2. The dataset consist of water usage, apartment price in Victoria, and titanic accident.
 ### 1.1 Water Usage
 The task is to predict the survival on the Titanic based on the dataset of the onboard passengers of the historical journey embarked on April 15, 1912. The features include Gender, Age, Passenger class, Ticket Fare, Port of Embarkation, Family, etc. It requires a binary classification of 1/0, 1 meaning Survived and 0 meaning not survived. The input dataset has been split into training and testing sets which are available to the public through Kaggle. The output requirement is a CSV file with 2 columns - PassengerID and Survival prediction (1/0).<br>
@@ -18,6 +20,7 @@ On April 15, 1912, the largest passenger liner ever made collided with an iceber
 
 ---
 ## 2. Get Started
+---
 ### 2.1 Prepare the Dataset
 To execute this section you should prepare the dataset.
 
